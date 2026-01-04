@@ -142,7 +142,7 @@ The server runs on the target machine and handles all system interactions.
 
 ## 📦 Downloads & Source Code
 
-- 📱 **APK (Android):** [https://expo.dev/artifacts/eas/djMhgpdqVr7cqViegeApad.apk]
+- 📱 **APK (Android):** https://expo.dev/artifacts/eas/djMhgpdqVr7cqViegeApad.apk
 - 🖥️ **Python Server Code:** Download the code above.
 
 ---
