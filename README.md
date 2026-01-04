@@ -15,10 +15,10 @@ No cables. No bloated remote desktop software. Just fast, direct control.
 Uplink lets you control your computer from your phone in real time:
 
 - Use your phone as a **touchpad**
-- Perform **mouse clicks and gestures**
+- Perform **mouse clicks**
 - Type text remotely as if using a real keyboard
 - Trigger **system actions** like shutdown or restart
-- View **live system stats** from your PC
+- View **system stats** from your PC
 
 ---
 
@@ -77,7 +77,7 @@ Includes buttons for:
 - Desktop switching
 - Shutdown
 - Restart  
-*(More actions can be added easily)*
+- And much more
 
 ---
 
@@ -142,8 +142,8 @@ The server runs on the target machine and handles all system interactions.
 
 ## 📦 Downloads & Source Code
 
-- 📱 **APK (Android):** _[Link will be added]_
-- 🖥️ **Python Server Code:** _[Link will be added]_
+- 📱 **APK (Android):** [https://expo.dev/artifacts/eas/djMhgpdqVr7cqViegeApad.apk]
+- 🖥️ **Python Server Code:** Download the code above.
 
 ---
 
@@ -177,5 +177,6 @@ Feel free to fork, modify, and extend it.
 
 ## 👤 Author
 
-Built by **Stark**  
+Built by **Stark**
+Email: musa.fullstack08@gmail.com
 If you’re reading this, you already know this wasn’t built by accident.
