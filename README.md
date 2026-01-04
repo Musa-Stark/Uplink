@@ -177,6 +177,6 @@ Feel free to fork, modify, and extend it.
 
 ## 👤 Author
 
-Built by **Stark**
-Email: musa.fullstack08@gmail.com
+Built by **Stark**<br>
+Email: musa.fullstack08@gmail.com<br>
 If you’re reading this, you already know this wasn’t built by accident.
