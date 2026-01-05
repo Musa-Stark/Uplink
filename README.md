@@ -10,6 +10,13 @@ No cables. No bloated remote desktop software. Just fast, direct control.
 
 ---
 
+## 📦 Downloads & Source Code
+
+- 📱 **APK (Android):** [Download](https://expo.dev/artifacts/eas/djMhgpdqVr7cqViegeApad.apk)
+- 🖥️ **Python Server:** [Download](https://drive.google.com/uc?export=download&id=12U_3KnKiRSSQ6j5KWlG1BSK-I4EL8KXe)
+
+---
+
 ## ✨ What Uplink Does
 
 Uplink lets you control your computer from your phone in real time:
@@ -137,13 +144,6 @@ The server runs on the target machine and handles all system interactions.
 4. Enter the IP address
 5. Connect
 6. Control your PC instantly
-
----
-
-## 📦 Downloads & Source Code
-
-- 📱 **APK (Android):** https://expo.dev/artifacts/eas/djMhgpdqVr7cqViegeApad.apk
-- 🖥️ **Python Server Code:** Download the code above.
 
 ---
 
